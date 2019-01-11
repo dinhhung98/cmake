@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/func.h
+
+/home/hung/test/cmake8/main/fn.c
+stdio.h
+-
+stdlib.h
+-
+func.h
+/home/hung/test/cmake8/main/func.h
+

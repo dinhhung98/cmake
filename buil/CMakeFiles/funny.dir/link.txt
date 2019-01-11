@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfunny.a  CMakeFiles/funny.dir/main/fn.c.o
+/usr/bin/ranlib libfunny.a

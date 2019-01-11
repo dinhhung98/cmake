@@ -1,0 +1,4 @@
+/home/hung/test/cmake8/buil/CMakeFiles/edit_cache.dir
+/home/hung/test/cmake8/buil/CMakeFiles/rebuild_cache.dir
+/home/hung/test/cmake8/buil/CMakeFiles/funny_app.dir
+/home/hung/test/cmake8/buil/CMakeFiles/funny.dir

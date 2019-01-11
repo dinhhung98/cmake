@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/funny_app.dir/main/main.c.o  -o funny_app -rdynamic libfunny.a 
